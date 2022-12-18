@@ -17,3 +17,4 @@ candy crush game make in javascript using functions
 
 i hope you like it enjoy and play the game 
 live link here 
+https://abhishekverma1996.github.io/candy-crush/
